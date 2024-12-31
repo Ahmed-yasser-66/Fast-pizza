@@ -27,4 +27,25 @@ Ensure you have the following installed:
 - 🎨 **TailWind**: Styling the application.
 
 
+### Installation
 
+1.**Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Ahmed-yasser-66/Fast-pizza.git
+   cd Fast-pizza
+   ```
+
+2 .**Install dependencies**:
+
+   ```bash
+   npm install 
+   ```
+
+3.**Start the React application**:
+
+```bash
+npm run dev
+```
+
+## Enjoy managing pizza state 👨‍💻🍕
